@@ -1,0 +1,18 @@
+{
+  "packages": [
+    {
+      "name": "obsstudio",
+      "version": "30.0",
+      "url": "obsstudio/obsstudio.zpkg",
+      "description": "OBS Studio for Zemmy Linux",
+      "dependencies": []
+    },
+    {
+      "name": "zemmy_terminal",
+      "version": "1.0",
+      "url": "zemmy_terminal/zemmy_terminal.zpkg",
+      "description": "Zemmy Terminal",
+      "dependencies": []
+    }
+  ]
+}

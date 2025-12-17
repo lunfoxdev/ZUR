@@ -1,0 +1,9 @@
+[Package]
+Name=obsstudio
+Version=1.0
+Repo=ZUR
+Description=OBS Studio przygotowane dla ZUR
+Dependencies=libobs-frontend-api.so.30
+
+[Install]
+Path=/home/lunfox/zemmy/ZUR/obsstudio

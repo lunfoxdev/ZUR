@@ -1,0 +1,400 @@
+libobs.so.30: \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o \
+  CMakeFiles/libobs.dir/obs-hevc.c.o \
+  CMakeFiles/libobs.dir/obs-audio-controls.c.o \
+  CMakeFiles/libobs.dir/obs-audio.c.o \
+  CMakeFiles/libobs.dir/obs-av1.c.o \
+  CMakeFiles/libobs.dir/obs-avc.c.o \
+  CMakeFiles/libobs.dir/obs-canvas.c.o \
+  CMakeFiles/libobs.dir/obs-data.c.o \
+  CMakeFiles/libobs.dir/obs-display.c.o \
+  CMakeFiles/libobs.dir/obs-encoder.c.o \
+  CMakeFiles/libobs.dir/obs-hotkey-name-map.c.o \
+  CMakeFiles/libobs.dir/obs-hotkey.c.o \
+  CMakeFiles/libobs.dir/obs-missing-files.c.o \
+  CMakeFiles/libobs.dir/obs-module.c.o \
+  CMakeFiles/libobs.dir/obs-nal.c.o \
+  CMakeFiles/libobs.dir/obs-output-delay.c.o \
+  CMakeFiles/libobs.dir/obs-output.c.o \
+  CMakeFiles/libobs.dir/obs-properties.c.o \
+  CMakeFiles/libobs.dir/obs-scene.c.o \
+  CMakeFiles/libobs.dir/obs-service.c.o \
+  CMakeFiles/libobs.dir/obs-source-deinterlace.c.o \
+  CMakeFiles/libobs.dir/obs-source-transition.c.o \
+  CMakeFiles/libobs.dir/obs-source.c.o \
+  CMakeFiles/libobs.dir/obs-video-gpu-encode.c.o \
+  CMakeFiles/libobs.dir/obs-video.c.o \
+  CMakeFiles/libobs.dir/obs-view.c.o \
+  CMakeFiles/libobs.dir/obs.c.o \
+  CMakeFiles/libobs.dir/util/array-serializer.c.o \
+  CMakeFiles/libobs.dir/util/base.c.o \
+  CMakeFiles/libobs.dir/util/bitstream.c.o \
+  CMakeFiles/libobs.dir/util/bmem.c.o \
+  CMakeFiles/libobs.dir/util/buffered-file-serializer.c.o \
+  CMakeFiles/libobs.dir/util/cf-lexer.c.o \
+  CMakeFiles/libobs.dir/util/cf-parser.c.o \
+  CMakeFiles/libobs.dir/util/config-file.c.o \
+  CMakeFiles/libobs.dir/util/crc32.c.o \
+  CMakeFiles/libobs.dir/util/dstr.c.o \
+  CMakeFiles/libobs.dir/util/file-serializer.c.o \
+  CMakeFiles/libobs.dir/util/lexer.c.o \
+  CMakeFiles/libobs.dir/util/pipe.c.o \
+  CMakeFiles/libobs.dir/util/platform.c.o \
+  CMakeFiles/libobs.dir/util/profiler.c.o \
+  CMakeFiles/libobs.dir/util/source-profiler.c.o \
+  CMakeFiles/libobs.dir/util/task.c.o \
+  CMakeFiles/libobs.dir/util/text-lookup.c.o \
+  CMakeFiles/libobs.dir/util/utf8.c.o \
+  CMakeFiles/libobs.dir/callback/calldata.c.o \
+  CMakeFiles/libobs.dir/callback/decl.c.o \
+  CMakeFiles/libobs.dir/callback/proc.c.o \
+  CMakeFiles/libobs.dir/callback/signal.c.o \
+  CMakeFiles/libobs.dir/media-io/audio-io.c.o \
+  CMakeFiles/libobs.dir/media-io/audio-resampler-ffmpeg.c.o \
+  CMakeFiles/libobs.dir/media-io/format-conversion.c.o \
+  CMakeFiles/libobs.dir/media-io/media-remux.c.o \
+  CMakeFiles/libobs.dir/media-io/video-fourcc.c.o \
+  CMakeFiles/libobs.dir/media-io/video-frame.c.o \
+  CMakeFiles/libobs.dir/media-io/video-io.c.o \
+  CMakeFiles/libobs.dir/media-io/video-matrices.c.o \
+  CMakeFiles/libobs.dir/media-io/video-scaler-ffmpeg.c.o \
+  CMakeFiles/libobs.dir/graphics/axisang.c.o \
+  CMakeFiles/libobs.dir/graphics/bounds.c.o \
+  CMakeFiles/libobs.dir/graphics/effect-parser.c.o \
+  CMakeFiles/libobs.dir/graphics/effect.c.o \
+  CMakeFiles/libobs.dir/graphics/graphics-ffmpeg.c.o \
+  CMakeFiles/libobs.dir/graphics/graphics-imports.c.o \
+  CMakeFiles/libobs.dir/graphics/graphics.c.o \
+  CMakeFiles/libobs.dir/graphics/image-file.c.o \
+  CMakeFiles/libobs.dir/graphics/libnsgif/libnsgif.c.o \
+  CMakeFiles/libobs.dir/graphics/math-extra.c.o \
+  CMakeFiles/libobs.dir/graphics/matrix3.c.o \
+  CMakeFiles/libobs.dir/graphics/matrix4.c.o \
+  CMakeFiles/libobs.dir/graphics/plane.c.o \
+  CMakeFiles/libobs.dir/graphics/quat.c.o \
+  CMakeFiles/libobs.dir/graphics/shader-parser.c.o \
+  CMakeFiles/libobs.dir/graphics/texture-render.c.o \
+  CMakeFiles/libobs.dir/graphics/vec2.c.o \
+  CMakeFiles/libobs.dir/graphics/vec3.c.o \
+  CMakeFiles/libobs.dir/graphics/vec4.c.o \
+  CMakeFiles/libobs.dir/obs-nix-platform.c.o \
+  CMakeFiles/libobs.dir/obs-nix-x11.c.o \
+  CMakeFiles/libobs.dir/obs-nix.c.o \
+  CMakeFiles/libobs.dir/util/pipe-posix.c.o \
+  CMakeFiles/libobs.dir/util/platform-nix.c.o \
+  CMakeFiles/libobs.dir/util/threading-posix.c.o \
+  CMakeFiles/libobs.dir/audio-monitoring/null/null-audio-monitoring.c.o \
+  CMakeFiles/libobs.dir/util/platform-nix-dbus.c.o \
+  CMakeFiles/libobs.dir/util/platform-nix-portal.c.o \
+  CMakeFiles/libobs.dir/obs-nix-wayland.c.o \
+  CMakeFiles/libobs-version.dir/obsversion.c.o \
+  ../deps/libcaption/libcaption.a \
+  /usr/lib/libavcodec.so \
+  /usr/lib/libavformat.so \
+  /usr/lib/libavutil.so \
+  /usr/lib/libswscale.so \
+  /usr/lib/libswresample.so \
+  /usr/lib/libjansson.so \
+  /usr/lib/libz.so \
+  /usr/lib/libX11.so \
+  /usr/lib/libX11-xcb.so \
+  /usr/lib/libxcb.so \
+  /usr/lib/libuuid.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libdl.a \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libm.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libm.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libm.so \
+  /usr/lib/libm.so.6 \
+  /usr/lib/libmvec.so.1 \
+  /usr/lib/libxcb-xinput.so \
+  /usr/lib/libgio-2.0.so \
+  /usr/lib/libwayland-client.so \
+  /usr/lib/libxkbcommon.so \
+  /usr/lib/libxcb.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so.1 \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libc.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libc.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libc.so \
+  /usr/lib/libc.so.6 \
+  /usr/lib/libc_nonshared.a \
+  /usr/lib/ld-linux-x86-64.so.2 \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so.1 \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crtn.o
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o:
+
+CMakeFiles/libobs.dir/obs-hevc.c.o:
+
+CMakeFiles/libobs.dir/obs-audio-controls.c.o:
+
+CMakeFiles/libobs.dir/obs-audio.c.o:
+
+CMakeFiles/libobs.dir/obs-av1.c.o:
+
+CMakeFiles/libobs.dir/obs-avc.c.o:
+
+CMakeFiles/libobs.dir/obs-canvas.c.o:
+
+CMakeFiles/libobs.dir/obs-data.c.o:
+
+CMakeFiles/libobs.dir/obs-display.c.o:
+
+CMakeFiles/libobs.dir/obs-encoder.c.o:
+
+CMakeFiles/libobs.dir/obs-hotkey-name-map.c.o:
+
+CMakeFiles/libobs.dir/obs-hotkey.c.o:
+
+CMakeFiles/libobs.dir/obs-missing-files.c.o:
+
+CMakeFiles/libobs.dir/obs-module.c.o:
+
+CMakeFiles/libobs.dir/obs-nal.c.o:
+
+CMakeFiles/libobs.dir/obs-output-delay.c.o:
+
+CMakeFiles/libobs.dir/obs-output.c.o:
+
+CMakeFiles/libobs.dir/obs-properties.c.o:
+
+CMakeFiles/libobs.dir/obs-scene.c.o:
+
+CMakeFiles/libobs.dir/obs-service.c.o:
+
+CMakeFiles/libobs.dir/obs-source-deinterlace.c.o:
+
+CMakeFiles/libobs.dir/obs-source-transition.c.o:
+
+CMakeFiles/libobs.dir/obs-source.c.o:
+
+CMakeFiles/libobs.dir/obs-video-gpu-encode.c.o:
+
+CMakeFiles/libobs.dir/obs-video.c.o:
+
+CMakeFiles/libobs.dir/obs-view.c.o:
+
+CMakeFiles/libobs.dir/obs.c.o:
+
+CMakeFiles/libobs.dir/util/array-serializer.c.o:
+
+CMakeFiles/libobs.dir/util/base.c.o:
+
+CMakeFiles/libobs.dir/util/bitstream.c.o:
+
+CMakeFiles/libobs.dir/util/bmem.c.o:
+
+CMakeFiles/libobs.dir/util/buffered-file-serializer.c.o:
+
+CMakeFiles/libobs.dir/util/cf-lexer.c.o:
+
+CMakeFiles/libobs.dir/util/cf-parser.c.o:
+
+CMakeFiles/libobs.dir/util/config-file.c.o:
+
+CMakeFiles/libobs.dir/util/crc32.c.o:
+
+CMakeFiles/libobs.dir/util/dstr.c.o:
+
+CMakeFiles/libobs.dir/util/file-serializer.c.o:
+
+CMakeFiles/libobs.dir/util/lexer.c.o:
+
+CMakeFiles/libobs.dir/util/pipe.c.o:
+
+CMakeFiles/libobs.dir/util/platform.c.o:
+
+CMakeFiles/libobs.dir/util/profiler.c.o:
+
+CMakeFiles/libobs.dir/util/source-profiler.c.o:
+
+CMakeFiles/libobs.dir/util/task.c.o:
+
+CMakeFiles/libobs.dir/util/text-lookup.c.o:
+
+CMakeFiles/libobs.dir/util/utf8.c.o:
+
+CMakeFiles/libobs.dir/callback/calldata.c.o:
+
+CMakeFiles/libobs.dir/callback/decl.c.o:
+
+CMakeFiles/libobs.dir/callback/proc.c.o:
+
+CMakeFiles/libobs.dir/callback/signal.c.o:
+
+CMakeFiles/libobs.dir/media-io/audio-io.c.o:
+
+CMakeFiles/libobs.dir/media-io/audio-resampler-ffmpeg.c.o:
+
+CMakeFiles/libobs.dir/media-io/format-conversion.c.o:
+
+CMakeFiles/libobs.dir/media-io/media-remux.c.o:
+
+CMakeFiles/libobs.dir/media-io/video-fourcc.c.o:
+
+CMakeFiles/libobs.dir/media-io/video-frame.c.o:
+
+CMakeFiles/libobs.dir/media-io/video-io.c.o:
+
+CMakeFiles/libobs.dir/media-io/video-matrices.c.o:
+
+CMakeFiles/libobs.dir/media-io/video-scaler-ffmpeg.c.o:
+
+CMakeFiles/libobs.dir/graphics/axisang.c.o:
+
+CMakeFiles/libobs.dir/graphics/bounds.c.o:
+
+CMakeFiles/libobs.dir/graphics/effect-parser.c.o:
+
+CMakeFiles/libobs.dir/graphics/effect.c.o:
+
+CMakeFiles/libobs.dir/graphics/graphics-ffmpeg.c.o:
+
+CMakeFiles/libobs.dir/graphics/graphics-imports.c.o:
+
+CMakeFiles/libobs.dir/graphics/graphics.c.o:
+
+CMakeFiles/libobs.dir/graphics/image-file.c.o:
+
+CMakeFiles/libobs.dir/graphics/libnsgif/libnsgif.c.o:
+
+CMakeFiles/libobs.dir/graphics/math-extra.c.o:
+
+CMakeFiles/libobs.dir/graphics/matrix3.c.o:
+
+CMakeFiles/libobs.dir/graphics/matrix4.c.o:
+
+CMakeFiles/libobs.dir/graphics/plane.c.o:
+
+CMakeFiles/libobs.dir/graphics/quat.c.o:
+
+CMakeFiles/libobs.dir/graphics/shader-parser.c.o:
+
+CMakeFiles/libobs.dir/graphics/texture-render.c.o:
+
+CMakeFiles/libobs.dir/graphics/vec2.c.o:
+
+CMakeFiles/libobs.dir/graphics/vec3.c.o:
+
+CMakeFiles/libobs.dir/graphics/vec4.c.o:
+
+CMakeFiles/libobs.dir/obs-nix-platform.c.o:
+
+CMakeFiles/libobs.dir/obs-nix-x11.c.o:
+
+CMakeFiles/libobs.dir/obs-nix.c.o:
+
+CMakeFiles/libobs.dir/util/pipe-posix.c.o:
+
+CMakeFiles/libobs.dir/util/platform-nix.c.o:
+
+CMakeFiles/libobs.dir/util/threading-posix.c.o:
+
+CMakeFiles/libobs.dir/audio-monitoring/null/null-audio-monitoring.c.o:
+
+CMakeFiles/libobs.dir/util/platform-nix-dbus.c.o:
+
+CMakeFiles/libobs.dir/util/platform-nix-portal.c.o:
+
+CMakeFiles/libobs.dir/obs-nix-wayland.c.o:
+
+CMakeFiles/libobs-version.dir/obsversion.c.o:
+
+../deps/libcaption/libcaption.a:
+
+/usr/lib/libavcodec.so:
+
+/usr/lib/libavformat.so:
+
+/usr/lib/libavutil.so:
+
+/usr/lib/libswscale.so:
+
+/usr/lib/libswresample.so:
+
+/usr/lib/libjansson.so:
+
+/usr/lib/libz.so:
+
+/usr/lib/libX11.so:
+
+/usr/lib/libX11-xcb.so:
+
+/usr/lib/libxcb.so:
+
+/usr/lib/libuuid.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libdl.a:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libm.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libm.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libm.so:
+
+/usr/lib/libm.so.6:
+
+/usr/lib/libmvec.so.1:
+
+/usr/lib/libxcb-xinput.so:
+
+/usr/lib/libgio-2.0.so:
+
+/usr/lib/libwayland-client.so:
+
+/usr/lib/libxkbcommon.so:
+
+/usr/lib/libxcb.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so.1:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libc.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libc.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libc.so:
+
+/usr/lib/libc.so.6:
+
+/usr/lib/libc_nonshared.a:
+
+/usr/lib/ld-linux-x86-64.so.2:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libgcc_s.so.1:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crtn.o:

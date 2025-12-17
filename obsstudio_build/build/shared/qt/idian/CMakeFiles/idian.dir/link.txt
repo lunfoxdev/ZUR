@@ -1,0 +1,2 @@
+"/usr/bin/gcc-ar" qc libidian.a CMakeFiles/idian.dir/idian_autogen/mocs_compilation.cpp.o CMakeFiles/idian.dir/components/CheckBox.cpp.o CMakeFiles/idian.dir/components/ComboBox.cpp.o CMakeFiles/idian.dir/components/DoubleSpinBox.cpp.o CMakeFiles/idian.dir/components/SpinBox.cpp.o CMakeFiles/idian.dir/components/ToggleSwitch.cpp.o CMakeFiles/idian.dir/widgets/Group.cpp.o CMakeFiles/idian.dir/widgets/PropertiesList.cpp.o CMakeFiles/idian.dir/widgets/Row.cpp.o
+"/usr/bin/gcc-ranlib" libidian.a

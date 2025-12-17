@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -flto=auto -fno-fat-lto-objects -Wl,--dependency-file=CMakeFiles/obs-nvenc-test.dir/link.d "CMakeFiles/obs-nvenc-test.dir/obs-nvenc-test.cpp.o" -o obs-nvenc-test  -Wl,-rpath,/home/lunfox/zemmy/ZUR/obsstudio/build/rundir/Release/lib:

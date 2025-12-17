@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/decklink.dir/link.d"
+  "CMakeFiles/decklink.dir/DecklinkBase.cpp.o"
+  "CMakeFiles/decklink.dir/DecklinkBase.cpp.o.d"
+  "CMakeFiles/decklink.dir/DecklinkInput.cpp.o"
+  "CMakeFiles/decklink.dir/DecklinkInput.cpp.o.d"
+  "CMakeFiles/decklink.dir/DecklinkOutput.cpp.o"
+  "CMakeFiles/decklink.dir/DecklinkOutput.cpp.o.d"
+  "CMakeFiles/decklink.dir/OBSVideoFrame.cpp.o"
+  "CMakeFiles/decklink.dir/OBSVideoFrame.cpp.o.d"
+  "CMakeFiles/decklink.dir/audio-repack.c.o"
+  "CMakeFiles/decklink.dir/audio-repack.c.o.d"
+  "CMakeFiles/decklink.dir/decklink-device-discovery.cpp.o"
+  "CMakeFiles/decklink.dir/decklink-device-discovery.cpp.o.d"
+  "CMakeFiles/decklink.dir/decklink-device-instance.cpp.o"
+  "CMakeFiles/decklink.dir/decklink-device-instance.cpp.o.d"
+  "CMakeFiles/decklink.dir/decklink-device-mode.cpp.o"
+  "CMakeFiles/decklink.dir/decklink-device-mode.cpp.o.d"
+  "CMakeFiles/decklink.dir/decklink-device.cpp.o"
+  "CMakeFiles/decklink.dir/decklink-device.cpp.o.d"
+  "CMakeFiles/decklink.dir/decklink-devices.cpp.o"
+  "CMakeFiles/decklink.dir/decklink-devices.cpp.o.d"
+  "CMakeFiles/decklink.dir/decklink-output.cpp.o"
+  "CMakeFiles/decklink.dir/decklink-output.cpp.o.d"
+  "CMakeFiles/decklink.dir/decklink-source.cpp.o"
+  "CMakeFiles/decklink.dir/decklink-source.cpp.o.d"
+  "CMakeFiles/decklink.dir/linux/decklink-sdk/DeckLinkAPIDispatch.cpp.o"
+  "CMakeFiles/decklink.dir/linux/decklink-sdk/DeckLinkAPIDispatch.cpp.o.d"
+  "CMakeFiles/decklink.dir/linux/platform.cpp.o"
+  "CMakeFiles/decklink.dir/linux/platform.cpp.o.d"
+  "CMakeFiles/decklink.dir/plugin-main.cpp.o"
+  "CMakeFiles/decklink.dir/plugin-main.cpp.o.d"
+  "CMakeFiles/decklink.dir/util.cpp.o"
+  "CMakeFiles/decklink.dir/util.cpp.o.d"
+  "decklink.pdb"
+  "decklink.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/decklink.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

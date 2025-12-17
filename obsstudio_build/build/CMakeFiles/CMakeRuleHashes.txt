@@ -1,0 +1,20 @@
+# Hashes of file build rules.
+dd266d4bb207a68388bd462108af3e21 frontend/CMakeFiles/obs-studio_autogen
+cce87559d1c74cf1f3e5768ab017bc29 frontend/obs-studio_autogen/QM7UNKGVG2/qrc_obs.cpp
+d86a953205a90d77d1a8d4cc57213f7f frontend/obs-studio_autogen/timestamp
+3b48c2f1cd2d4933d13f253d8217af04 frontend/plugins/decklink-captions/CMakeFiles/decklink-captions_autogen
+c3804a88895eb5b0d3089c0d6dc66395 frontend/plugins/decklink-captions/decklink-captions_autogen/timestamp
+93ff5599dde3f49d707f9728d42fe56e frontend/plugins/decklink-output-ui/CMakeFiles/decklink-output-ui_autogen
+e235c9187a99232e05a362c01cf7c46a frontend/plugins/decklink-output-ui/decklink-output-ui_autogen/timestamp
+80a8e81f0480b58a6e513becccecd07d frontend/plugins/frontend-tools/CMakeFiles/frontend-tools_autogen
+62ca5b35d8d5090c839156374b631a03 frontend/plugins/frontend-tools/frontend-tools_autogen/timestamp
+5b85e769fcd25679e2666235a2e38baa plugins/obs-vst/CMakeFiles/obs-vst_autogen
+3fdf950b2188edf9ac40a733f6f34bea plugins/obs-vst/obs-vst_autogen/timestamp
+b3d1d96050c0842e711686c849b30b34 shared/obs-scripting/obslua/CMakeFiles/obslua.dir/obsluaLUA.stamp
+f8d7c3b85f8f37ac9b5d6bf8266b366a shared/obs-scripting/obslua/CMakeFiles/obslua_swig_compilation
+0a20424b0e1555c5e9483f26bc12614c shared/obs-scripting/obspython/CMakeFiles/obspython.dir/obspythonPYTHON.stamp
+35f002c052cedc9b80462a4babdee144 shared/obs-scripting/obspython/CMakeFiles/obspython_swig_compilation
+b6da375d7d38813ff8f8282bbf2ae4fa shared/obs-scripting/swig/swigluarun.h
+3afb92054d93619b5580a4b8f0eb45eb shared/obs-scripting/swig/swigpyrun.h
+74130604d2c5b53ebf001626da78e972 shared/qt/idian/CMakeFiles/idian_autogen
+7887ade25b9c4e4327ecce4e48e0f761 shared/qt/idian/idian_autogen/timestamp

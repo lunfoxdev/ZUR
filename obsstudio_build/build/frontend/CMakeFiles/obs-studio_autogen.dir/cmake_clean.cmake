@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/obs-studio_autogen"
+  "obs-studio_autogen/include/forms/source-toolbar/ui_browser-source-toolbar.h"
+  "obs-studio_autogen/include/forms/source-toolbar/ui_color-source-toolbar.h"
+  "obs-studio_autogen/include/forms/source-toolbar/ui_device-select-toolbar.h"
+  "obs-studio_autogen/include/forms/source-toolbar/ui_game-capture-toolbar.h"
+  "obs-studio_autogen/include/forms/source-toolbar/ui_image-source-toolbar.h"
+  "obs-studio_autogen/include/forms/source-toolbar/ui_media-controls.h"
+  "obs-studio_autogen/include/forms/source-toolbar/ui_text-source-toolbar.h"
+  "obs-studio_autogen/include/forms/ui_AutoConfigFinishPage.h"
+  "obs-studio_autogen/include/forms/ui_AutoConfigStartPage.h"
+  "obs-studio_autogen/include/forms/ui_AutoConfigStreamPage.h"
+  "obs-studio_autogen/include/forms/ui_AutoConfigTestPage.h"
+  "obs-studio_autogen/include/forms/ui_AutoConfigVideoPage.h"
+  "obs-studio_autogen/include/forms/ui_ColorSelect.h"
+  "obs-studio_autogen/include/forms/ui_LogUploadDialog.h"
+  "obs-studio_autogen/include/forms/ui_OBSAbout.h"
+  "obs-studio_autogen/include/forms/ui_OBSAdvAudio.h"
+  "obs-studio_autogen/include/forms/ui_OBSBasic.h"
+  "obs-studio_autogen/include/forms/ui_OBSBasicControls.h"
+  "obs-studio_autogen/include/forms/ui_OBSBasicFilters.h"
+  "obs-studio_autogen/include/forms/ui_OBSBasicInteraction.h"
+  "obs-studio_autogen/include/forms/ui_OBSBasicProperties.h"
+  "obs-studio_autogen/include/forms/ui_OBSBasicSettings.h"
+  "obs-studio_autogen/include/forms/ui_OBSBasicSourceSelect.h"
+  "obs-studio_autogen/include/forms/ui_OBSBasicVCamConfig.h"
+  "obs-studio_autogen/include/forms/ui_OBSExtraBrowsers.h"
+  "obs-studio_autogen/include/forms/ui_OBSImporter.h"
+  "obs-studio_autogen/include/forms/ui_OBSMissingFiles.h"
+  "obs-studio_autogen/include/forms/ui_OBSRemux.h"
+  "obs-studio_autogen/include/forms/ui_PluginManagerWindow.h"
+  "obs-studio_autogen/include/forms/ui_StatusBarWidget.h"
+  "obs-studio_autogen/mocs_compilation.cpp"
+  "obs-studio_autogen/timestamp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/obs-studio_autogen.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

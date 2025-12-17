@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Zemmy Terminal
+Comment=Terminal w ZUR z czarnym tłem i białą czcionką
+Exec=xterm -bg black -fg white -fa 'Monospace' -fs 16
+Type=Application
+Categories=System;TerminalEmulator;

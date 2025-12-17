@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/obs-ffmpeg.dir/link.d"
+  "CMakeFiles/obs-ffmpeg.dir/__/__/shared/media-playback/media-playback/cache.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/__/__/shared/media-playback/media-playback/cache.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/__/__/shared/media-playback/media-playback/decode.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/__/__/shared/media-playback/media-playback/decode.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/__/__/shared/media-playback/media-playback/media-playback.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/__/__/shared/media-playback/media-playback/media-playback.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/__/__/shared/media-playback/media-playback/media.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/__/__/shared/media-playback/media-playback/media.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-audio-encoders.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-audio-encoders.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-av1.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-av1.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-hls-mux.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-hls-mux.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-mux.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-mux.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-openh264.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-openh264.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-output.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-output.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-source.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-source.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-vaapi.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-vaapi.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-video-encoders.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg-video-encoders.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/obs-ffmpeg.c.o.d"
+  "CMakeFiles/obs-ffmpeg.dir/vaapi-utils.c.o"
+  "CMakeFiles/obs-ffmpeg.dir/vaapi-utils.c.o.d"
+  "obs-ffmpeg.pdb"
+  "obs-ffmpeg.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/obs-ffmpeg.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

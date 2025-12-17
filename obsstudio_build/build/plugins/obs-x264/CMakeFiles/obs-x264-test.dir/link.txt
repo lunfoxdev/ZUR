@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -flto=auto -fno-fat-lto-objects -Wl,--dependency-file=CMakeFiles/obs-x264-test.dir/link.d "CMakeFiles/obs-x264-test.dir/obs-x264-test.c.o" "../../shared/opts-parser/CMakeFiles/opts-parser.dir/opts-parser.c.o" -o obs-x264-test  -Wl,-rpath,/home/lunfox/zemmy/ZUR/obsstudio/build/libobs ../../libobs/libobs.so.30

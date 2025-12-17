@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/frontend-tools.dir/link.d"
+  "CMakeFiles/frontend-tools_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/frontend-tools_autogen.dir/ParseCache.txt"
+  "frontend-tools_autogen"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/properties-view/double-slider.cpp.o"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/properties-view/double-slider.cpp.o.d"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/properties-view/properties-view.cpp.o"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/properties-view/properties-view.cpp.o.d"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/properties-view/spinbox-ignorewheel.cpp.o"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/properties-view/spinbox-ignorewheel.cpp.o.d"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/qt/icon-label/IconLabel.cpp.o"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/qt/icon-label/IconLabel.cpp.o.d"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/qt/plain-text-edit/plain-text-edit.cpp.o"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/qt/plain-text-edit/plain-text-edit.cpp.o.d"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/qt/slider-ignorewheel/slider-ignorewheel.cpp.o"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/qt/slider-ignorewheel/slider-ignorewheel.cpp.o.d"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/qt/vertical-scroll-area/vertical-scroll-area.cpp.o"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/qt/vertical-scroll-area/vertical-scroll-area.cpp.o.d"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/qt/wrappers/qt-wrappers.cpp.o"
+  "CMakeFiles/frontend-tools.dir/__/__/__/shared/qt/wrappers/qt-wrappers.cpp.o.d"
+  "CMakeFiles/frontend-tools.dir/auto-scene-switcher-nix.cpp.o"
+  "CMakeFiles/frontend-tools.dir/auto-scene-switcher-nix.cpp.o.d"
+  "CMakeFiles/frontend-tools.dir/auto-scene-switcher.cpp.o"
+  "CMakeFiles/frontend-tools.dir/auto-scene-switcher.cpp.o.d"
+  "CMakeFiles/frontend-tools.dir/frontend-tools.c.o"
+  "CMakeFiles/frontend-tools.dir/frontend-tools.c.o.d"
+  "CMakeFiles/frontend-tools.dir/frontend-tools_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/frontend-tools.dir/frontend-tools_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/frontend-tools.dir/output-timer.cpp.o"
+  "CMakeFiles/frontend-tools.dir/output-timer.cpp.o.d"
+  "CMakeFiles/frontend-tools.dir/scripts.cpp.o"
+  "CMakeFiles/frontend-tools.dir/scripts.cpp.o.d"
+  "frontend-tools.pdb"
+  "frontend-tools.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/frontend-tools.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

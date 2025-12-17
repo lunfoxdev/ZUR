@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  ".30"
+  "CMakeFiles/libobs-opengl.dir/link.d"
+  "CMakeFiles/libobs-opengl.dir/gl-egl-common.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-egl-common.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-helpers.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-helpers.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-indexbuffer.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-indexbuffer.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-nix.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-nix.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-shader.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-shader.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-shaderparser.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-shaderparser.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-stagesurf.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-stagesurf.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-subsystem.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-subsystem.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-texture2d.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-texture2d.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-texture3d.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-texture3d.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-texturecube.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-texturecube.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-vertexbuffer.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-vertexbuffer.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-wayland-egl.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-wayland-egl.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-x11-egl.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-x11-egl.c.o.d"
+  "CMakeFiles/libobs-opengl.dir/gl-zstencil.c.o"
+  "CMakeFiles/libobs-opengl.dir/gl-zstencil.c.o.d"
+  "libobs-opengl.pdb"
+  "libobs-opengl.so"
+  "libobs-opengl.so.30"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/libobs-opengl.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

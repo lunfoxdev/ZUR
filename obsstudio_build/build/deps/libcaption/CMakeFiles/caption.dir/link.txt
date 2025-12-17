@@ -1,0 +1,2 @@
+"/usr/bin/gcc-ar" qc libcaption.a CMakeFiles/caption.dir/src/caption.c.o CMakeFiles/caption.dir/src/cea708.c.o CMakeFiles/caption.dir/src/eia608.c.o CMakeFiles/caption.dir/src/eia608_charmap.c.o CMakeFiles/caption.dir/src/eia608_from_utf8.c.o CMakeFiles/caption.dir/src/mpeg.c.o CMakeFiles/caption.dir/src/scc.c.o CMakeFiles/caption.dir/src/srt.c.o CMakeFiles/caption.dir/src/utf8.c.o CMakeFiles/caption.dir/src/xds.c.o
+"/usr/bin/gcc-ranlib" libcaption.a
